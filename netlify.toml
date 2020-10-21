@@ -6,5 +6,5 @@
 
  [build]
   base    = "/examples/demo"
-  publish = "/examples/demo/build"
+  publish = "/build"
   command = "npm run build"
